@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Chemist with a passion for data and python development. 
+
+My recent projects are: 
+- Converting 2D NMR data into a 3D printable model (Python)
+- Firefox addons to solve some pain points I have with webapps I use regularly (HTML/CSS/JS)
+- Python class to solve a particular set of thermodynamics problems 
+- Discord bots for DnD and other games (Python)
+
+Currently trying to get my JavaScript skills up to scratch, starting with vanilla and looking towards a framework like Svelte and/or React. Also trying to get my head around flexbox and grid for web layouts.
+
 <!--
 **DeemoONeill/DeemoONeill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
